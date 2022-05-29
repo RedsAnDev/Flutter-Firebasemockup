@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126897816814",
+    "firebase_url": "https://remoteaccess-af2f1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "remoteaccess-af2f1",
+    "storage_bucket": "remoteaccess-af2f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126897816814:android:9705938145b8d0dcc41fff",
+        "android_client_info": {
+          "package_name": "com.redsandev.firebase_mockup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126897816814-6c8bmutva30n6l8n6dkf2vv4d2l0pk6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU--B2Jc3Wj942IojApdmxqXvSgmrBZN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126897816814-6c8bmutva30n6l8n6dkf2vv4d2l0pk6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
